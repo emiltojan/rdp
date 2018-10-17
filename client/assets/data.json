@@ -1,0 +1,7 @@
+[
+    { "country_code": "us", "dc": ["6094", "6511","8851"] },
+    { "country_code": "ca", "dc": ["6002"] },
+    { "country_code": "hn", "dc": ["7419", "7420"] },
+    { "country_code": "jp", "dc": ["7415"] },
+    { "country_code": "mx", "dc": ["5781"] }
+]
